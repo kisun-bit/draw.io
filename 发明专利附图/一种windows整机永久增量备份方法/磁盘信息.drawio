@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T06:09:24.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.5" etag="7txB795vSnGKJ-0Fll2I" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T06:16:02.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6IFsYNf1Pk-I44M8DNkd" version="21.6.5" type="github">
   <diagram name="第 1 页" id="6cVQMBpNHnjs4CFNp5Gg">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k7k9SLu9SBoCjos6sqn8-2" value="磁盘元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7k9SLu9SBoCjos6sqn8-3" value="磁盘通用数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7k9SLu9SBoCjos6sqn8-4" value="磁盘有效分区数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7k9SLu9SBoCjos6sqn8-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k7k9SLu9SBoCjos6sqn8-6" value="磁盘数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="365" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
